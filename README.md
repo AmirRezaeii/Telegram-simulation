@@ -1,2 +1,1 @@
-# Telegram-simulation
-Project of Sharif University of Technology, Computer Engineering Department
+# Logical part of Telegram simulation
